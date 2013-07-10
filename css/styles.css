@@ -11,7 +11,7 @@ body{
 	color: #3d3d3d;
 	padding-top: 50px;
 	background-image: -webkit-gradient(linear, left top, left bottom, from(#b6ab9c), to(#d2cbbf));
-	background-color: #d2cbbf;
+	background-color: #000000;
 	background-repeat: repeat;
 	background-attachment: scroll;
 }
