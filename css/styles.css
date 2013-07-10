@@ -50,7 +50,7 @@ header{
 #logo a{
 	width: 159px;
 	height: 43px;
-	background-image: url('../images/logo.png');
+	background-image: url('../images/logo.jpg');
 	background-repeat: no-repeat;
 	display: block;
 	text-indent: -99999px;
@@ -222,8 +222,8 @@ footer a:hover{
 	background-image:url("../images/banner-small.jpg");	
 	height:98px;
 }
-#iphone-small{
-	background-image: url('../images/logo3.jpg');
+#logo3{
+	background-image:url("../images/logo3.png");
 	width: 168px;
 	height: 216px;
 	background-repeat:no-repeat;
